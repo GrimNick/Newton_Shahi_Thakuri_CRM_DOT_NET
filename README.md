@@ -39,6 +39,7 @@ This is the privacy page (optional)
 
 
 This is the page where list of customer complaints with customer information is listed. This is not accessible if user isn't logged in. This is implementation of authentication.
+Pagination,sorting and searching is done here.
 
 
 ![afterDelete](afterDelete.png)
