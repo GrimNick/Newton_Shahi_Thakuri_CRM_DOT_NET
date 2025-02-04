@@ -17,7 +17,7 @@ This is the homepage of web application made using .NET Core MVC that incorporat
 
 Firstly, this is the homepage of the web application.
 
-![Loggingin](Homepage.png)
+![Loggingin](HomePage.png)
 
 
 After clicking the register button at the navigation bar it relocates for registration which doesnt need the actual email currently but must follow the actual email and password format.
