@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj": {}
+    "D:\\coding\\.net\\Newton_Shahi_Thakuri_CRM_DOT_NET\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj": {
+    "D:\\coding\\.net\\Newton_Shahi_Thakuri_CRM_DOT_NET\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj",
+        "projectUniqueName": "D:\\coding\\.net\\Newton_Shahi_Thakuri_CRM_DOT_NET\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj",
         "projectName": "CRM_Newton_2025v2",
-        "projectPath": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj",
+        "projectPath": "D:\\coding\\.net\\Newton_Shahi_Thakuri_CRM_DOT_NET\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj",
         "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\obj\\",
+        "outputPath": "D:\\coding\\.net\\Newton_Shahi_Thakuri_CRM_DOT_NET\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

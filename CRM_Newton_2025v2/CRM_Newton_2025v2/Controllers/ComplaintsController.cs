@@ -96,7 +96,7 @@ namespace CRM_Newton_2025v2.Controllers
         }
 
         // GET: Complaints/Delete/5
-        [Authorize(Roles = "Manager")]
+        [Authorize(Roles = "MANAGER")]
 
         public async Task<IActionResult> Delete(int? id)
         {
@@ -118,7 +118,7 @@ namespace CRM_Newton_2025v2.Controllers
         // POST: Complaints/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        [Authorize(Roles = "Manager")]
+        [Authorize(Roles = "MANAGER")]
 
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
