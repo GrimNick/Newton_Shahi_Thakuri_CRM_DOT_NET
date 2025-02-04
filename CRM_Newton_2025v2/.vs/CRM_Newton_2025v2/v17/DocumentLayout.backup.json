@@ -1,0 +1,339 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04AFE522-7BBA-4075-83E7-B35144E8A7DA}|CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj|c:\\users\\acer\\source\\repos\\crm_newton_2025v2\\crm_newton_2025v2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04AFE522-7BBA-4075-83E7-B35144E8A7DA}|CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj|solutionrelative:crm_newton_2025v2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04AFE522-7BBA-4075-83E7-B35144E8A7DA}|CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj|c:\\users\\acer\\source\\repos\\crm_newton_2025v2\\crm_newton_2025v2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04AFE522-7BBA-4075-83E7-B35144E8A7DA}|CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj|solutionrelative:crm_newton_2025v2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04AFE522-7BBA-4075-83E7-B35144E8A7DA}|CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj|c:\\users\\acer\\source\\repos\\crm_newton_2025v2\\crm_newton_2025v2\\controllers\\complaintscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04AFE522-7BBA-4075-83E7-B35144E8A7DA}|CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj|solutionrelative:crm_newton_2025v2\\controllers\\complaintscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04AFE522-7BBA-4075-83E7-B35144E8A7DA}|CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj|c:\\users\\acer\\source\\repos\\crm_newton_2025v2\\crm_newton_2025v2\\views\\complaints\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04AFE522-7BBA-4075-83E7-B35144E8A7DA}|CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj|solutionrelative:crm_newton_2025v2\\views\\complaints\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04AFE522-7BBA-4075-83E7-B35144E8A7DA}|CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj|c:\\users\\acer\\source\\repos\\crm_newton_2025v2\\crm_newton_2025v2\\views\\complaints\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04AFE522-7BBA-4075-83E7-B35144E8A7DA}|CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj|solutionrelative:crm_newton_2025v2\\views\\complaints\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04AFE522-7BBA-4075-83E7-B35144E8A7DA}|CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj|c:\\users\\acer\\source\\repos\\crm_newton_2025v2\\crm_newton_2025v2\\views\\complaints\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04AFE522-7BBA-4075-83E7-B35144E8A7DA}|CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj|solutionrelative:crm_newton_2025v2\\views\\complaints\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04AFE522-7BBA-4075-83E7-B35144E8A7DA}|CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj|c:\\users\\acer\\source\\repos\\crm_newton_2025v2\\crm_newton_2025v2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04AFE522-7BBA-4075-83E7-B35144E8A7DA}|CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj|solutionrelative:crm_newton_2025v2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04AFE522-7BBA-4075-83E7-B35144E8A7DA}|CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj|c:\\users\\acer\\source\\repos\\crm_newton_2025v2\\crm_newton_2025v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04AFE522-7BBA-4075-83E7-B35144E8A7DA}|CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj|solutionrelative:crm_newton_2025v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04AFE522-7BBA-4075-83E7-B35144E8A7DA}|CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj|c:\\users\\acer\\source\\repos\\crm_newton_2025v2\\crm_newton_2025v2\\views\\complaints\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04AFE522-7BBA-4075-83E7-B35144E8A7DA}|CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj|solutionrelative:crm_newton_2025v2\\views\\complaints\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\Migrations\\20250204165220_addedComplaints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM_Newton_2025v2\\Migrations\\20250204165220_addedComplaints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04AFE522-7BBA-4075-83E7-B35144E8A7DA}|CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj|c:\\users\\acer\\source\\repos\\crm_newton_2025v2\\crm_newton_2025v2\\areas\\identity\\data\\crm_newton_2025v2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04AFE522-7BBA-4075-83E7-B35144E8A7DA}|CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj|solutionrelative:crm_newton_2025v2\\areas\\identity\\data\\crm_newton_2025v2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04AFE522-7BBA-4075-83E7-B35144E8A7DA}|CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj|c:\\users\\acer\\source\\repos\\crm_newton_2025v2\\crm_newton_2025v2\\migrations\\crm_newton_2025v2contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04AFE522-7BBA-4075-83E7-B35144E8A7DA}|CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj|solutionrelative:crm_newton_2025v2\\migrations\\crm_newton_2025v2contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04AFE522-7BBA-4075-83E7-B35144E8A7DA}|CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj|c:\\users\\acer\\source\\repos\\crm_newton_2025v2\\crm_newton_2025v2\\models\\complaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04AFE522-7BBA-4075-83E7-B35144E8A7DA}|CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj|solutionrelative:crm_newton_2025v2\\models\\complaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04AFE522-7BBA-4075-83E7-B35144E8A7DA}|CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj|c:\\users\\acer\\source\\repos\\crm_newton_2025v2\\crm_newton_2025v2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{04AFE522-7BBA-4075-83E7-B35144E8A7DA}|CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj|solutionrelative:crm_newton_2025v2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04AFE522-7BBA-4075-83E7-B35144E8A7DA}|CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj|c:\\users\\acer\\source\\repos\\crm_newton_2025v2\\crm_newton_2025v2\\migrations\\20250204162416_newmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04AFE522-7BBA-4075-83E7-B35144E8A7DA}|CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj|solutionrelative:crm_newton_2025v2\\migrations\\20250204162416_newmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04AFE522-7BBA-4075-83E7-B35144E8A7DA}|CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj|c:\\users\\acer\\source\\repos\\crm_newton_2025v2\\crm_newton_2025v2\\migrations\\20250204155740_secondmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04AFE522-7BBA-4075-83E7-B35144E8A7DA}|CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj|solutionrelative:crm_newton_2025v2\\migrations\\20250204155740_secondmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04AFE522-7BBA-4075-83E7-B35144E8A7DA}|CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj|c:\\users\\acer\\source\\repos\\crm_newton_2025v2\\crm_newton_2025v2\\migrations\\20250204154948_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04AFE522-7BBA-4075-83E7-B35144E8A7DA}|CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj|solutionrelative:crm_newton_2025v2\\migrations\\20250204154948_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04AFE522-7BBA-4075-83E7-B35144E8A7DA}|CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj|c:\\users\\acer\\source\\repos\\crm_newton_2025v2\\crm_newton_2025v2\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{04AFE522-7BBA-4075-83E7-B35144E8A7DA}|CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj|solutionrelative:crm_newton_2025v2\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04AFE522-7BBA-4075-83E7-B35144E8A7DA}|CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj|c:\\users\\acer\\source\\repos\\crm_newton_2025v2\\crm_newton_2025v2\\migrations\\20250204155125_firstmigration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04AFE522-7BBA-4075-83E7-B35144E8A7DA}|CRM_Newton_2025v2\\CRM_Newton_2025v2.csproj|solutionrelative:crm_newton_2025v2\\migrations\\20250204155125_firstmigration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "CRM_Newton_2025v2\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "CRM_Newton_2025v2\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T17:31:50.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRM_Newton_2025v2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CRM_Newton_2025v2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T16:56:00.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\Views\\Complaints\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CRM_Newton_2025v2\\Views\\Complaints\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\Views\\Complaints\\Delete.cshtml",
+              "RelativeToolTip": "CRM_Newton_2025v2\\Views\\Complaints\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T17:07:00.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\Views\\Complaints\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CRM_Newton_2025v2\\Views\\Complaints\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\Views\\Complaints\\Edit.cshtml",
+              "RelativeToolTip": "CRM_Newton_2025v2\\Views\\Complaints\\Edit.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T17:04:37.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\Views\\Complaints\\Create.cshtml",
+              "RelativeDocumentMoniker": "CRM_Newton_2025v2\\Views\\Complaints\\Create.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\Views\\Complaints\\Create.cshtml",
+              "RelativeToolTip": "CRM_Newton_2025v2\\Views\\Complaints\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T17:02:49.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\Views\\Complaints\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRM_Newton_2025v2\\Views\\Complaints\\Index.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\Views\\Complaints\\Index.cshtml",
+              "RelativeToolTip": "CRM_Newton_2025v2\\Views\\Complaints\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T16:55:42.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComplaintsController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\Controllers\\ComplaintsController.cs",
+              "RelativeDocumentMoniker": "CRM_Newton_2025v2\\Controllers\\ComplaintsController.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\Controllers\\ComplaintsController.cs",
+              "RelativeToolTip": "CRM_Newton_2025v2\\Controllers\\ComplaintsController.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAwwHoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T16:53:51.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CRM_Newton_2025v2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CRM_Newton_2025v2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwDIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T15:49:20.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\Program.cs",
+              "RelativeDocumentMoniker": "CRM_Newton_2025v2\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\Program.cs",
+              "RelativeToolTip": "CRM_Newton_2025v2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T15:52:13.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250204165220_addedComplaints.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\Migrations\\20250204165220_addedComplaints.cs",
+              "RelativeDocumentMoniker": "CRM_Newton_2025v2\\Migrations\\20250204165220_addedComplaints.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\Migrations\\20250204165220_addedComplaints.cs",
+              "RelativeToolTip": "CRM_Newton_2025v2\\Migrations\\20250204165220_addedComplaints.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T16:52:20.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CRM_Newton_2025v2Context.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\Areas\\Identity\\Data\\CRM_Newton_2025v2Context.cs",
+              "RelativeDocumentMoniker": "CRM_Newton_2025v2\\Areas\\Identity\\Data\\CRM_Newton_2025v2Context.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\Areas\\Identity\\Data\\CRM_Newton_2025v2Context.cs",
+              "RelativeToolTip": "CRM_Newton_2025v2\\Areas\\Identity\\Data\\CRM_Newton_2025v2Context.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T16:50:42.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CRM_Newton_2025v2ContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\Migrations\\CRM_Newton_2025v2ContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CRM_Newton_2025v2\\Migrations\\CRM_Newton_2025v2ContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\Migrations\\CRM_Newton_2025v2ContextModelSnapshot.cs",
+              "RelativeToolTip": "CRM_Newton_2025v2\\Migrations\\CRM_Newton_2025v2ContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T16:48:55.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Complaint.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\Models\\Complaint.cs",
+              "RelativeDocumentMoniker": "CRM_Newton_2025v2\\Models\\Complaint.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\Models\\Complaint.cs",
+              "RelativeToolTip": "CRM_Newton_2025v2\\Models\\Complaint.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T16:45:48.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250204162416_newmigration.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\Migrations\\20250204162416_newmigration.cs",
+              "RelativeDocumentMoniker": "CRM_Newton_2025v2\\Migrations\\20250204162416_newmigration.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\Migrations\\20250204162416_newmigration.cs",
+              "RelativeToolTip": "CRM_Newton_2025v2\\Migrations\\20250204162416_newmigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T16:24:16.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250204154948_firstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\Migrations\\20250204154948_firstMigration.cs",
+              "RelativeDocumentMoniker": "CRM_Newton_2025v2\\Migrations\\20250204154948_firstMigration.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\Migrations\\20250204154948_firstMigration.cs",
+              "RelativeToolTip": "CRM_Newton_2025v2\\Migrations\\20250204154948_firstMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T15:49:48.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\appsettings.json",
+              "RelativeDocumentMoniker": "CRM_Newton_2025v2\\appsettings.json",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\appsettings.json",
+              "RelativeToolTip": "CRM_Newton_2025v2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-04T15:48:31.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250204155740_SecondMigration.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\Migrations\\20250204155740_SecondMigration.cs",
+              "RelativeDocumentMoniker": "CRM_Newton_2025v2\\Migrations\\20250204155740_SecondMigration.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\Migrations\\20250204155740_SecondMigration.cs",
+              "RelativeToolTip": "CRM_Newton_2025v2\\Migrations\\20250204155740_SecondMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T15:57:40.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250204155125_firstMigration2.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\Migrations\\20250204155125_firstMigration2.cs",
+              "RelativeDocumentMoniker": "CRM_Newton_2025v2\\Migrations\\20250204155125_firstMigration2.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\Migrations\\20250204155125_firstMigration2.cs",
+              "RelativeToolTip": "CRM_Newton_2025v2\\Migrations\\20250204155125_firstMigration2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T15:51:26.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "CRM_Newton_2025v2\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CRM_Newton_2025v2\\CRM_Newton_2025v2\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "CRM_Newton_2025v2\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-04T15:48:07.484Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
